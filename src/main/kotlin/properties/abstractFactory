@@ -1,0 +1,4 @@
+properties/abstractfactory
+
+#serviceProductImplClass abstractfactory.WSServiceStackImpl
+serviceProductImplClass abstractFactory.RestServiceStackImpl
